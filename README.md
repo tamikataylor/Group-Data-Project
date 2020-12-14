@@ -7,3 +7,4 @@ We decided to do our group project on mushroom toxcity. The reason being because
 
 # Data
 We found our raw data using Kaggle. However, everything was entered using an assigned letter per feature. In order to have our maps work properly, we used the count features to be able to view the different characteristics on our Heat and Correlation Maps. The raw data on Kaggle, also included 22 different characteristics ranging from physical to habitat and population. In order to narrow our data we chose three characteristics to look at, they were: 
+We first looked at the Logistica Regression to first determine how many mushrooms in our data were either edible or poisonous. 
