@@ -34,20 +34,20 @@ r - Green,
 o - Orange, 
 u - Purple,
 w - White,
-y - Yellow,
+y - Yellow
 
 ![Correlation Between Mushroom Cap Color and Edibility](https://github.com/tamikataylor/Group-Data-Project/blob/main/HM%20CP.png)
 
 Key for Cap Color: 
 n - Brown,
-b - Buff
-c - Cinnamon
-g - Gray
-r - Green
+b - Buff,
+c - Cinnamon,
+g - Gray,
+r - Green,
 p - Pink,
-u - Purple
-e - Red
-w - White
+u - Purple,
+e - Red,
+w - White,
 y - Yellow
 
 # Logistical Regression with Cross Tabulation
