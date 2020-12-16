@@ -44,7 +44,7 @@ b - Buff
 c - Cinnamon
 g - Gray
 r - Green
-p - Pink
+p - Pink,
 u - Purple
 e - Red
 w - White
