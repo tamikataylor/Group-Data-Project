@@ -10,3 +10,11 @@ To obtain our data we used Kaggle. The data did not require any cleaning just so
 
 # Heat Maps
 
+![Correlation Between Mushroom Odor and Edibility](https://github.com/tamikataylor/Group-Data-Project/blob/main/HM%20Odor.png)
+
+![Correlation Between Mushroom Spore Print Color and Edibility](https://github.com/tamikataylor/Group-Data-Project/blob/main/HM%20SPC.png)
+
+![Correlation Between Mushroom Cap Color and Edibility](https://github.com/tamikataylor/Group-Data-Project/blob/main/HM%20CP.png)
+
+# Logistical Regression with Cross Tabulation
+
