@@ -70,6 +70,10 @@ Odor- a(almond) -2.96 100% edible
 
 Odor- i(anise) -2.96 100% edible
 
+Cross Tab Tabel of Odor 
+
+![Odor vs. Toxicity](https://github.com/tamikataylor/Group-Data-Project/blob/main/Screen%20Shot%202020-12-16%20at%2010.41.18%20AM.png)
+
 ![Odor vs. Toxicity](https://github.com/tamikataylor/Group-Data-Project/blob/main/CT%20Odor.png)
 
 Key for Odor:
