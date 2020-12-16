@@ -14,7 +14,7 @@ We decided to do our group project on mushroom toxicity. The reason being that s
 # Data
 To obtain our data we used Kaggle. The data did not require any cleaning just some manipulation within the Juypter notebooks. The mushroom notebook contained 22 different characteristics. However, we decided to focus on three of them being: Odor, Spore Print Color, and the Cap Color. First, we looked at Heat Maps to determine the first impressions of the data and what had the highest correlations. Next, we attempted the Logistical Regression, however, due to the high number of variances in the characteristics typical logistical regression did not work. Instead, we looked at the cross-tabulation maps using the logistical regression to get a better visual between the character types and the edibility of the mushrooms.
 
-# Heat Maps
+# Heat Maps for Exploratory Analysis
 
 ![Correlation Between Mushroom Odor and Edibility](https://github.com/tamikataylor/Group-Data-Project/blob/main/HM%20Odor.png)
 
@@ -55,6 +55,8 @@ u - Purple,
 e - Red,
 w - White,
 y - Yellow
+
+In our exploratory analysis we used heat maps to look at the general correlations. Right of the bat for the spore print and odor you can see some strong correlations as well as ones that have zero correlation. The first one being for odor n (none), edible mushrooms are more likely to have no odor. For the spore print color h (chocolate) there is a good chance that it was more poisonous. However, for cap color there were no major correlations. 
 
 # Logistical Regression with Cross Tabulation
 
@@ -97,6 +99,8 @@ u - Purple,
 e - Red,
 w - White,
 y - Yellow
+
+For our actual analysis of data, we looked at the Logistical Regression of the three characteristics. However, since there are so many different variables for each characteristic, traditional regression did not work. We weren’t looking at numbers but rather colors and smells so we needed a graph that could compare those simultaneously. So instead we used Cross Tabulation maps. These gave a us a much better picture of what the correlation was between edible and poisonous. First, we created cross tab tables using pandas and then plotted them. From that data we are able to see that there are no major correlations in the cap color, but the odor and spore print color have higher correlations. 
 
 # Conclusion
 
