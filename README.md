@@ -13,33 +13,33 @@ To obtain our data we used Kaggle. The data did not require any cleaning just so
 ![Correlation Between Mushroom Odor and Edibility](https://github.com/tamikataylor/Group-Data-Project/blob/main/HM%20Odor.png)
 
 Key for Odor:
-a - Almond
-l - Anise
-c - Creosote
-y - Fishy
-f - Foul
-m - Musty
-p - Pungent
-s - Spicy
+a - Almond,
+l - Anise,
+c - Creosote,
+y - Fishy,
+f - Foul,
+m - Musty,
+p - Pungent,
+s - Spicy,
 n - None
 
 ![Correlation Between Mushroom Spore Print Color and Edibility](https://github.com/tamikataylor/Group-Data-Project/blob/main/HM%20SPC.png)
 
 Key for Spore Print Color:
-k - Black
-n - Brown
-b - Buff
-h - Chocolate
-r - Green
-o - Orange 
-u - Purple
-w - White
-y - Yellow
+k - Black,
+n - Brown,
+b - Buff,
+h - Chocolate,
+r - Green,
+o - Orange, 
+u - Purple,
+w - White,
+y - Yellow,
 
 ![Correlation Between Mushroom Cap Color and Edibility](https://github.com/tamikataylor/Group-Data-Project/blob/main/HM%20CP.png)
 
 Key for Cap Color: 
-n - Brown
+n - Brown,
 b - Buff
 c - Cinnamon
 g - Gray
