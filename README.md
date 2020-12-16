@@ -1,9 +1,9 @@
 # Group Data Project 
 
-Tamika Taylor
-Daniil Sagun
-Pierce Myers
-Nrusimha Ayyalasomayajula
+Tamika Taylor,
+Daniil Sagun,
+Pierce Myers,
+Nrusimha Ayyalasomayajula,
 Isabella Ecklund
 
 # Mushroom Toxicity
