@@ -62,13 +62,13 @@ In our exploratory analysis we used heat maps to look at the general correlation
 
 Max(poison)-spore print color-r(green) 3.66 100% poison
 
-Min(edible)-Odor-n(None) -4.18 96.6% edible
+Min(edible)-Odor-n(none) -4.18 96.6% edible
 
 Best edible predictors:
 
-Odor- a(Almond) -2.96 100% edible
+Odor- a(almond) -2.96 100% edible
 
-Odor- i(Anise) -2.96 100% edible
+Odor- i(anise) -2.96 100% edible
 
 ![Odor vs. Toxicity](https://github.com/tamikataylor/Group-Data-Project/blob/main/CT%20Odor.png)
 
